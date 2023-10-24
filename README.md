@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Joseph Golla
-- 👀 I’m interested in an internship/volunteering opportunity. 
-- 🌱 I’m currently learning HTML/CSS, Java with knowledge of C++
-- 💞️ I’m looking to collaborate on any project. 
-- 📫 Best way to reach me through email. 
+- Hi, I’m Joseph Golla
+- I’m interested in an internship/volunteering opportunity. 
+- I’m currently learning HTML/CSS, Java with knowledge of C++
+- I’m looking to collaborate on any project. 
+- Best way to reach me through email. 
